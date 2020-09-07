@@ -7,6 +7,7 @@
 ### *I will create an app using a Python/Typescript/React stack (what's for dinner?)*
 ### *I will practice algos and Python on leetcode*
 ### *I will create an app using AWS Amplify (endaptdo)*
+### *I will refresh my personal website*
 
 #### Start Date
 September 7th 2020
