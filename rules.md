@@ -6,6 +6,7 @@
 ## Secondary Commitments
 ### *I will create an app using a Python/Typescript/React stack (what's for dinner?)*
 ### *I will practice algos and Python on leetcode*
+### *I will review the Algorithms Illuminated book series by Tim Roughgarden*
 ### *I will create an app using AWS Amplify (endaptdo)*
 ### *I will refresh my personal website*
 
