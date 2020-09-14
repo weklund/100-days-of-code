@@ -36,3 +36,18 @@
 
 
 
+### Day 3: September 13th, 2020 
+
+**Today's Progress**: 
+ * Started on Grokking the Coding Interview, created a [repo](https://github.com/weklund/patterns-for-coding-questions) for note taking of various patterns
+ * Explained the Sliding Window pattern and where it can be used
+ * Completed Max Sum of Subarray of Size K problem using Sliding Window
+
+**Thoughts:**
+ * It's tough to clean the rust of Python while streaming and reviewing forgotten concepts lol 
+
+**Links:** 
+* [Sliding Window Notebook](https://github.com/weklund/patterns-for-coding-questions/tree/master/sliding-window)
+
+
+
