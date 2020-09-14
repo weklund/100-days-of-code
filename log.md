@@ -45,6 +45,7 @@
 
 **Thoughts:**
  * It's tough to clean the rust of Python while streaming and reviewing forgotten concepts lol 
+ * I need to get better at reading all the code when there's an issue instead of immediately printing to debug.  I'll understand it better when I run through the computations mentally.  
 
 **Links:** 
 * [Sliding Window Notebook](https://github.com/weklund/patterns-for-coding-questions/tree/master/sliding-window)
