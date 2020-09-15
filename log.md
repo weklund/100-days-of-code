@@ -61,11 +61,13 @@
  * Remember to read through logic before immediately starting to debug (printing fun)
 
 **Today's Accomplishments:** 
- 
+ * Completed Smallest Subarray with a given sum problem using Sliding Window 
+ * Did not have to print anything during my debugging, getting better at mentally reviewing buggy code
 
 **Thoughts:**
-   
+ * I could have a faster recall on list comprehension
+ * Had the meat of the logic correct, but I had incorrectly used the wrong loop structure.  Beat myself up pretty bad about it but I need to remember I'm actually going above and beyond what the course wants.  The real exercises aren't until the 'Problem Challenges' 
 
 **Links:**
-
+[Notebook](https://github.com/weklund/patterns-for-coding-questions/blob/master/sliding-window/Smallest_subarray_with_a_given_sum.ipynb)
 
