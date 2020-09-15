@@ -2,7 +2,7 @@
 
 ### Day 0: September 7th, 2020 
 
-**Today's Progress**: First stream, planning out my #100daysofcode schedule, app planning
+**Today's Progress:** First stream, planning out my #100daysofcode schedule, app planning
 
 **Thoughts:** Not a lot of code written, but a lot of system, api, model design for `figure out dinner` app
 
@@ -10,7 +10,7 @@
 
 ### Day 1: September 8th, 2020 
 
-**Today's Progress**: Starting review of [Algorithms Illuminated by Tim Roughgarden](http://www.algorithmsilluminated.org/)
+**Today's Progress:** Starting review of [Algorithms Illuminated by Tim Roughgarden](http://www.algorithmsilluminated.org/)
 
 **Thoughts:** Rereading chapter one, created a repo so I can implement algos in the material on python notebooks.  Also thought about `figure out dinner`, maybe I should look into barcode apis as phase two and ingredient detection in a later phase
 
@@ -19,7 +19,7 @@
 
 ### Day 2: September 12th, 2020 
 
-**Today's Progress**: 
+**Today's Progress:** 
  * Got local notebook environment working
  * Implemented a working Karatsuba Multiplication solution with recursion from section 1.3 of [Algorithms Illuminated by Tim Roughgarden](http://www.algorithmsilluminated.org/)
 
@@ -38,7 +38,7 @@
 
 ### Day 3: September 13th, 2020 
 
-**Today's Progress**: 
+**Today's Progress:** 
  * Started on Grokking the Coding Interview, created a [repo](https://github.com/weklund/patterns-for-coding-questions) for note taking of various patterns
  * Explained the Sliding Window pattern and where it can be used
  * Completed Max Sum of Subarray of Size K problem using Sliding Window
@@ -50,5 +50,22 @@
 **Links:** 
 * [Sliding Window Notebook](https://github.com/weklund/patterns-for-coding-questions/tree/master/sliding-window)
 
+### Day 4: September 14th, 2020
+
+**Yesterday's Accomplishments:**
+ * Started Grokking the Coding Interview
+ * Relearned the Sliding Window pattern and took good notes
+ * Solved the first problem in the series using Sliding Window
+ 
+**Today's Goals:**
+ * Remember to read through logic before immediately starting to debug (printing fun)
+
+**Today's Accomplishments:** 
+ 
+
+**Thoughts:**
+   
+
+**Links:**
 
 
