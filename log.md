@@ -82,9 +82,15 @@
  * Try to implement the optimal solution without looking
 
 **Today's Accomplishments:** 
- 
+ * Completed longest substring with k distinct characters
+ * Learned a more elegant way to compare my traversals from watchers
 
 **Thoughts:**
-  
+ * Still need to get better at designing the whole solution before writing any code
+    - markdown notes as the solution?
+    - pseudocode more?
+ * Slowly getting better at not printing all the things
+ * Refactor all notebooks to use left/right instead of window_start_location/window_end_location
 
 **Links:**
+[Notebook](https://github.com/weklund/patterns-for-coding-questions/blob/master/sliding-window/longest_substring_with_k_distinct_characters.ipynb)
