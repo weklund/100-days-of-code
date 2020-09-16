@@ -71,3 +71,20 @@
 **Links:**
 [Notebook](https://github.com/weklund/patterns-for-coding-questions/blob/master/sliding-window/Smallest_subarray_with_a_given_sum.ipynb)
 
+### Day 5: September 15th, 2020
+
+**Yesterday's Accomplishments:**
+ * Completed smallest subarray with given sum question
+ * Started to read through buggy code without immediately printing all the things
+ 
+**Today's Goals:**
+ * Remember to read through logic before immediately starting to debug (printing fun) (again)
+ * Try to implement the optimal solution without looking
+
+**Today's Accomplishments:** 
+ 
+
+**Thoughts:**
+  
+
+**Links:**
