@@ -94,3 +94,5 @@
 
 **Links:**
 [Notebook](https://github.com/weklund/patterns-for-coding-questions/blob/master/sliding-window/longest_substring_with_k_distinct_characters.ipynb)
+Someone also mentioned I should look at:
+[AlgoExpert](https://www.algoexpert.io/product)
