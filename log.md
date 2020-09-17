@@ -94,5 +94,24 @@
 
 **Links:**
 [Notebook](https://github.com/weklund/patterns-for-coding-questions/blob/master/sliding-window/longest_substring_with_k_distinct_characters.ipynb)
+
 Someone also mentioned I should look at:
 [AlgoExpert](https://www.algoexpert.io/product)
+
+
+### Day 6: September 17th, 2020
+
+**Yesterday's Accomplishments:**
+ * Completed longest substring of k distinct characters
+ * Used more elegant unique string selection for comparsion
+ 
+**Today's Goals:**
+ * Remember to read through logic before immediately starting to debug (printing fun) (again)
+ * Try to implement the optimal solution without looking
+ * Come up with the whole design for the solution before writing any code
+
+**Today's Accomplishments:** 
+
+**Thoughts:**
+
+**Links:**
