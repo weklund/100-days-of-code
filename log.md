@@ -111,7 +111,17 @@ Someone also mentioned I should look at:
  * Come up with the whole design for the solution before writing any code
 
 **Today's Accomplishments:** 
+ * Completed fruit basket problem
+ * Was able to recall the entire solution from memory from longest substring of k distinct characters
 
 **Thoughts:**
+ * Get feedback on my solution design / pseudocode ish.  Was it too iterative?
+ * I gave up too quickly on the solution.  
+ * NOTE: It is mentioned in the course content that this is the same problem space as the previous problem, longest substring with k distinct characters
+   
+   THIS IS NOT TRUE. The constraints in this problem require you to keep track of the characters to know which ones have been picked and need to be dropped off.
+   
+   The previous problem was only measuring contiguous unique characters. This led me down the wrong optimization path.
 
 **Links:**
+ [Notebook](https://github.com/weklund/patterns-for-coding-questions/blob/master/sliding-window/fruits_into_baskets.ipynb)
