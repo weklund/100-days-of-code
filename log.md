@@ -111,6 +111,7 @@ Someone also mentioned I should look at:
  * Come up with the whole design for the solution before writing any code
 
 **Today's Accomplishments:** 
+ * Biggest goal met was designing the entire logic for the naive solution without writing a single line of code
  * Completed fruit basket problem
  * Was able to recall the entire solution from memory from longest substring of k distinct characters
 
