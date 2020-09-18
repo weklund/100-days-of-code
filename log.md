@@ -126,3 +126,38 @@ Someone also mentioned I should look at:
 
 **Links:**
  [Notebook](https://github.com/weklund/patterns-for-coding-questions/blob/master/sliding-window/fruits_into_baskets.ipynb)
+ 
+ ### Day 7: September 18th, 2020
+ 
+ **Yesterday's Accomplishments:**
+  * Designed an entire naive solution before writing a single line of code
+  * Completed fruits baskets problem
+  
+ **Today's Goals:**
+  * Don't give up
+  * Continue to design solutions before coding
+  * Improve illustrating logic flow through text
+  example:
+``` 
+  [ 1 2 3 4 5 6 ]
+  1
+  |
+  2 3 4 5 6 
+  |
+  x x+1 x+2
+
+  [ 1 2 3 4 5 6 ]
+  
+  [1] 2 3 4 5 6
+  [1 2] 3 4 5 6
+  [1 2 3] 4 5 6
+  1 [2 3] 4 5 6
+```
+  * Remember to read through logic before immediately starting to debug (printing fun) (again)
+
+
+ **Today's Accomplishments:** 
+ 
+ **Thoughts:**
+ 
+ **Links:**
