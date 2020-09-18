@@ -167,5 +167,6 @@ Someone also mentioned I should look at:
   * I should really take a few days of pure hard leetcode questions before I finish all the patterns
   * I had a thought of using `set()` to accomplish this, tried to use `Set()` with dep issues then gave up on that approach.  It ended up being what I needed to do.
   * I need to start timing the design and coding sections (less than 20 minutes per problem) 
+  
  **Links:**
  - [Notebook](https://github.com/weklund/patterns-for-coding-questions/blob/master/sliding-window/no-repeat-substring.ipynb)
