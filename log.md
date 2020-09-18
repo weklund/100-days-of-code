@@ -138,7 +138,9 @@ Someone also mentioned I should look at:
   * Continue to design solutions before coding
   * Improve illustrating logic flow through text
   example:
+  
 ``` 
+  (Showcasing an illustration of looping j numbers ( 2 - 6) of i (1))
   [ 1 2 3 4 5 6 ]
   1
   |
@@ -146,6 +148,7 @@ Someone also mentioned I should look at:
   |
   x x+1 x+2
 
+  (Showcasing a sliding window of moving right and left window bounds)
   [ 1 2 3 4 5 6 ]
   
   [1] 2 3 4 5 6
