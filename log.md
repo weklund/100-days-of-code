@@ -157,10 +157,15 @@ Someone also mentioned I should look at:
   1 [2 3] 4 5 6
 ```
   * Remember to read through logic before immediately starting to debug (printing fun) (again)
-
-
+  
  **Today's Accomplishments:** 
+  * Completed no repeat substring
+  * Designed both naive and optimal solutions before coding them (will illustrations)
+  * No printing needed during debugging
  
  **Thoughts:**
- 
+  * I should really take a few days of pure hard leetcode questions before I finish all the patterns
+  * I had a thought of using `set()` to accomplish this, tried to use `Set()` with dep issues then gave up on that approach.  It ended up being what I needed to do.
+  * I need to start timing the design and coding sections (less than 20 minutes per problem) 
  **Links:**
+ - [Notebook](https://github.com/weklund/patterns-for-coding-questions/blob/master/sliding-window/no-repeat-substring.ipynb)
