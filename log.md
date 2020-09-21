@@ -183,10 +183,12 @@ Someone also mentioned I should look at:
    * Complete problem
    
   **Today's Accomplishments:** 
-  
+   * Completed Longest substring with same letter replacement problem
+   * My Naive solution ended up being as efficient as what a sliding window implementation would be
   
   **Thoughts:**
-   
+   * Took a realllly long time to come up with naive solution, but is efficient
+   * Had lots of knowledge gap trouble with iterating over maps to get various things
    
   **Links:**
-  
+  * [Notebook](https://github.com/weklund/patterns-for-coding-questions/blob/master/sliding-window/longest_substring_with_same_letters_replacement.ipynb)
