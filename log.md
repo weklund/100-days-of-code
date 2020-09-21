@@ -170,3 +170,23 @@ Someone also mentioned I should look at:
   
  **Links:**
  - [Notebook](https://github.com/weklund/patterns-for-coding-questions/blob/master/sliding-window/no-repeat-substring.ipynb)
+ 
+ 
+ ### Day 8: September 18th, 2020
+  
+  **Yesterday's Accomplishments:**
+   * Completed no repeat substring
+   * Improved pre-design of solution and illustrating before writing any code
+   
+  **Today's Goals:**
+   * Continue to reinforce better interview habits (illustrating design, debugging mentally)
+   * Complete problem
+   
+  **Today's Accomplishments:** 
+  
+  
+  **Thoughts:**
+   
+   
+  **Links:**
+  
