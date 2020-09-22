@@ -172,7 +172,7 @@ Someone also mentioned I should look at:
  - [Notebook](https://github.com/weklund/patterns-for-coding-questions/blob/master/sliding-window/no-repeat-substring.ipynb)
  
  
- ### Day 8: September 18th, 2020
+ ### Day 8: September 21th, 2020
   
   **Yesterday's Accomplishments:**
    * Completed no repeat substring
@@ -192,3 +192,20 @@ Someone also mentioned I should look at:
    
   **Links:**
   * [Notebook](https://github.com/weklund/patterns-for-coding-questions/blob/master/sliding-window/longest_substring_with_same_letters_replacement.ipynb)
+  
+ 
+ ### Day 9: September 22th, 2020
+  
+**Yesterday's Accomplishments:**
+ * Completed longest substring with k replaced characters
+ * naive solution was as efficient as optimal solution
+
+**Today's Goals:**
+* Continue to reinforce better interview habits (illustrating design, debugging mentally)
+* Get faster
+
+**Today's Accomplishments:** 
+
+**Thoughts:**
+
+**Links:**
