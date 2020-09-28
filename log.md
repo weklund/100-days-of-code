@@ -209,3 +209,11 @@ Someone also mentioned I should look at:
 **Thoughts:**
 
 **Links:**
+
+### Days 10 - 13: September 23th - September 26th 2020
+
+Unfortunately a combination of meetings and distress of lead up to and after the announcement from the Kentucky AG about Breonna Taylor :(
+
+### Day 14: September 27th 2020
+
+Accomplishments: Wrote up Check Mirrored Trees Problem 
