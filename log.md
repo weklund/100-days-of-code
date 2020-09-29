@@ -216,4 +216,15 @@ Unfortunately a combination of meetings and distress of lead up to and after the
 
 ### Day 14: September 27th 2020
 
-Accomplishments: Wrote up Check Mirrored Trees Problem 
+**Today's Accomplishments:**  
+* Wrote up Check Mirrored Trees Problem
+
+### Day 15: September 28th 2020
+
+**Today's Accomplishments:** 
+
+* Published my first DEV.to article 
+* Completed a LeetCode mock interview where I answered an easy and a medium question under a timelimit.
+* Highlighted all my previous naive and optimal solutions from streams before the broadcasts disappear
+
+ 
