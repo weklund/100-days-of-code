@@ -227,4 +227,8 @@ Unfortunately a combination of meetings and distress of lead up to and after the
 * Completed a LeetCode mock interview where I answered an easy and a medium question under a timelimit.
 * Highlighted all my previous naive and optimal solutions from streams before the broadcasts disappear
 
+**Links:**
+
+* [DEV.to article](https://dev.to/weklund/first-dev-post-yet-another-post-about-interviewing-for-faang-100daysofcode-3i1j)
+* [Leetcode mock interview question](https://leetcode.com/problems/prison-cells-after-n-days/)
  
