@@ -232,3 +232,19 @@ Unfortunately a combination of meetings and distress of lead up to and after the
 * [DEV.to article](https://dev.to/weklund/first-dev-post-yet-another-post-about-interviewing-for-faang-100daysofcode-3i1j)
 * [Leetcode mock interview question](https://leetcode.com/problems/prison-cells-after-n-days/)
  
+### Day 16: September 29th, 2020
+  
+**Yesterday's Accomplishments:**
+ * Published my first DEV article
+ * Completed a Leetcode mock interview where I answered 'Two Sum' and 'Prison Cells on Nth Day'
+
+**Today's Goals:**
+* Debug Check Mirrored Trees code
+* Understand optimal solution for 'Prison Cells After N Days'
+* Continue to reinforce better interview habits (illustrating design, debugging mentally)
+
+**Today's Accomplishments:** 
+
+**Thoughts:**
+
+**Links:**
