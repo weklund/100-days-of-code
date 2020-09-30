@@ -244,7 +244,9 @@ Unfortunately a combination of meetings and distress of lead up to and after the
 * Continue to reinforce better interview habits (illustrating design, debugging mentally)
 
 **Today's Accomplishments:** 
+* Debugged Check Mirror Trees (test case was wrong :( )
+* See optimal solution for prison cells but do not fully understand
 
 **Thoughts:**
-
+* Do not want to call prison cells done until I go through the bitwise XOR section on Grokking
 **Links:**
