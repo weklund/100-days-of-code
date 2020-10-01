@@ -250,3 +250,19 @@ Unfortunately a combination of meetings and distress of lead up to and after the
 **Thoughts:**
 * Do not want to call prison cells done until I go through the bitwise XOR section on Grokking
 **Links:**
+
+### Day 17: September 30th, 2020
+  
+**Yesterday's Accomplishments:**
+ * Debugged is mirror tree code
+ * Investigated prison cells problem
+
+**Today's Goals:**
+* Mock interview
+
+**Today's Accomplishments:** 
+* Did not pass mock interview but learned a great optimal solution using stacks
+* Have in person mock scheduled for tomorrow
+
+**Links:**
+* [Mock interview question](https://leetcode.com/problems/basic-calculator/)
