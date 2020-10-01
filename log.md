@@ -266,3 +266,19 @@ Unfortunately a combination of meetings and distress of lead up to and after the
 
 **Links:**
 * [Mock interview question](https://leetcode.com/problems/basic-calculator/)
+
+### Day 18: October 1st, 2020
+  
+**Yesterday's Accomplishments:**
+ * Mock Interview given Basic Calculator problem
+ 
+**Today's Goals:**
+* EPI 4.8
+* 1:1 mock interview (give either reverse string or basic calculator)
+* Start writing "Why I suck at Coding Interview" (Refer to start of stream monologue)
+
+**Today's Accomplishments:** 
+
+
+**Links:**
+* [EPI 4.8 - Reverse String (Digits)](https://leetcode.com/problems/reverse-string/)
