@@ -317,3 +317,27 @@ Unfortunately a combination of meetings and distress of lead up to and after the
  
 **Today's Accomplishments:** 
 * Did a Algos prep quiz
+
+### Day 23: Tuesday, October 6th, 2020 :white_check_mark:
+  
+**Yesterday's Accomplishments:**
+* Took a algo quiz
+
+**Today's Goals:**
+- [ ] Catch up #100DaysOfCode log
+- [ ] Take notes from watching AlgoExpert videos:
+    - Memory
+    - Big O
+    - Log
+    - Arrays
+    - Linked Lists
+- [ ] Stream EPI 5.2 + 5.17
+- [ ] Start 'Why I suck at Coding Interviews'
+- [ ] Leetcode October Challenge question
+- [ ]] Twitch Chatbot (!today, !question) and timer countdown 
+ 
+**Today's Accomplishments:** 
+
+**Thoughts**
+
+**Links:**
