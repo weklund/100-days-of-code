@@ -334,7 +334,7 @@ Unfortunately a combination of meetings and distress of lead up to and after the
 - [ ] Stream EPI 5.2 + 5.17
 - [ ] Start 'Why I suck at Coding Interviews'
 - [ ] Leetcode October Challenge question
-- [ ]] Twitch Chatbot (!today, !question) and timer countdown 
+- [ ] Twitch Chatbot (!today, !question) and timer countdown 
  
 **Today's Accomplishments:** 
 
