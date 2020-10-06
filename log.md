@@ -324,13 +324,13 @@ Unfortunately a combination of meetings and distress of lead up to and after the
 * Took a algo quiz
 
 **Today's Goals:**
-- [ ] Catch up #100DaysOfCode log
-- [ ] Take notes from watching AlgoExpert videos:
-    - Memory
-    - Big O
-    - Log
-    - Arrays
-    - Linked Lists
+- [x] Catch up #100DaysOfCode log
+- [x] Take notes from watching AlgoExpert videos:
+    - [x] Memory
+    - [x] Big O
+    - [x] Log
+    - [ ] Arrays
+    - [ ] Linked Lists
 - [ ] Stream EPI 5.2 + 5.17
 - [ ] Start 'Why I suck at Coding Interviews'
 - [ ] Leetcode October Challenge question
