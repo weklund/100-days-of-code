@@ -267,7 +267,7 @@ Unfortunately a combination of meetings and distress of lead up to and after the
 **Links:**
 * [Mock interview question](https://leetcode.com/problems/basic-calculator/)
 
-### Day 18: October 1st, 2020
+### Day 18: October 1st, 2020 :white_check_mark:
   
 **Yesterday's Accomplishments:**
  * Mock Interview given Basic Calculator problem
@@ -278,7 +278,42 @@ Unfortunately a combination of meetings and distress of lead up to and after the
 * Start writing "Why I suck at Coding Interview" (Refer to start of stream monologue)
 
 **Today's Accomplishments:** 
+* Started on 5.2, designed solution in pseudocode 
 
+**Thoughts**
+* Forgot that `//` is cool.  Better than using `floor()` for floor division
 
 **Links:**
 * [EPI 4.8 - Reverse String (Digits)](https://leetcode.com/problems/reverse-string/)
+
+### Day 19: Friday, October 2nd, 2020 :red_circle:
+  
+**Yesterday's Accomplishments:**
+* Started on 5.2 of EPI
+ 
+**Today's Accomplishments:** 
+* Watched some 'Welcome to the coding interview: you suck' videos
+
+### Day 20: Saturday, October 3rd, 2020 :red_circle:
+  
+**Yesterday's Accomplishments:**
+* Watched some videos
+ 
+**Today's Accomplishments:** 
+* Created a Python notebook to refresh syntax and standard library functions
+
+### Day 21: Sunday, October 4th, 2020 :red_circle:
+  
+**Yesterday's Accomplishments:**
+* Created a Python notebook to refresh syntax and standard library functions
+ 
+**Today's Accomplishments:** 
+* Took notes from AlgoExpert Data Structures video
+
+### Day 22: Monday, October 5th, 2020 :red_circle:
+  
+**Yesterday's Accomplishments:**
+* Took notes from AlgoExpert Data Structures video
+ 
+**Today's Accomplishments:** 
+* Did a Algos prep quiz
