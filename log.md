@@ -339,5 +339,6 @@ Unfortunately a combination of meetings and distress of lead up to and after the
 **Today's Accomplishments:** 
 
 **Thoughts**
+* didn't know that `%=` was a thing
 
 **Links:**
