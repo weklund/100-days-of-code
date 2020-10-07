@@ -331,14 +331,21 @@ Unfortunately a combination of meetings and distress of lead up to and after the
     - [x] Log
     - [ ] Arrays
     - [ ] Linked Lists
-- [ ] Stream EPI 5.2 + 5.17
-- [ ] Start 'Why I suck at Coding Interviews'
+- [x] Stream EPI 5.2 + 5.17
+- [x] Start 'Why I suck at Coding Interviews'
 - [ ] Leetcode October Challenge question
 - [ ] Twitch Chatbot (!today, !question) and timer countdown 
  
 **Today's Accomplishments:** 
+* Completed 5.2 Plus one
+* Refreshed on AlgoExpert's Memory, Big 0, and Log lessons
+* 3/4 done on Sudoku
+* Solved 4 problems on Hackerrank Python Refresher
+* Started on 'Why I suck at Coding Interview'
 
 **Thoughts**
 * didn't know that `%=` was a thing
 
 **Links:**
+- [PlusOne](https://github.com/weklund/patterns-for-coding-questions/blob/master/EPIs/5-2_increment-precision-integer-OR-plus-one.ipynb)
+- [Sudoku](https://github.com/weklund/patterns-for-coding-questions/blob/master/EPIs/5-17_valid-sudoku.ipynb))
