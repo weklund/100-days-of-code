@@ -349,3 +349,24 @@ Unfortunately a combination of meetings and distress of lead up to and after the
 **Links:**
 - [PlusOne](https://github.com/weklund/patterns-for-coding-questions/blob/master/EPIs/5-2_increment-precision-integer-OR-plus-one.ipynb)
 - [Sudoku](https://github.com/weklund/patterns-for-coding-questions/blob/master/EPIs/5-17_valid-sudoku.ipynb))
+
+
+### Day 24: Wednesday, October 7th, 2020 :white_check_mark:
+  
+**Yesterday's Accomplishments:**
+* Completed EPI 5.2 - Plus One
+* Take notes from AlgoExpert videos
+* Solved problems from Python refresher on Hackerrank
+
+**Today's Accomplishments:**
+- [x] Take notes from watching AlgoExpert videos:
+    - [x] Arrays
+    - [x] Linked Lists
+- [x] Mock Interview
+- [x] Start 'Why I suck at Coding Interviews'
+- [ ] Leetcode October Challenge question
+- [ ] Twitch Chatbot (!today, !question) and timer countdown 
+
+**Thoughts**
+* Each mock interview is great since it either reinforces what I'm already doing to prep or tweaks it to add what I'm missing
+* Stop thinking I need to rush the material.  Becoming a master of the topics will come, just keep putting in the hours every day
