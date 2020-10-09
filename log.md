@@ -370,3 +370,21 @@ Unfortunately a combination of meetings and distress of lead up to and after the
 **Thoughts**
 * Each mock interview is great since it either reinforces what I'm already doing to prep or tweaks it to add what I'm missing
 * Stop thinking I need to rush the material.  Becoming a master of the topics will come, just keep putting in the hours every day
+
+
+### Day 25: Thursday, October 8th, 2020 :white_check_mark:
+  
+**Yesterday's Accomplishments:**
+* Mock Interview
+* Finished refreshing Arrays and Linked Links from AlgoExpert
+* Solved problems from Python refresher on Hackerrank
+
+**Today's Accomplishments:**
+- [x] Take notes from watching AlgoExpert videos:
+    - [x] Hash Tables
+    - [x] Stacks and Queues
+- [x] Mock Interview
+- [x] 2 Problems on Hackerrank Python refresher
+
+**Thoughts**
+* I think I'm going to make flash cards on the time complexities of each operation for every data structure (set, insertion, deletion, search etc etc)
