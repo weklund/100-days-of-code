@@ -383,8 +383,27 @@ Unfortunately a combination of meetings and distress of lead up to and after the
 - [x] Take notes from watching AlgoExpert videos:
     - [x] Hash Tables
     - [x] Stacks and Queues
-- [x] Mock Interview
+- [x] Helped a friend conduct a Mock Interview
 - [x] 2 Problems on Hackerrank Python refresher
 
 **Thoughts**
 * I think I'm going to make flash cards on the time complexities of each operation for every data structure (set, insertion, deletion, search etc etc)
+
+
+### Day 26: Friday, October 9th, 2020 :white_check_mark:
+  
+**Yesterday's Accomplishments:**
+* Notes for Hash tables, Stacks and queues
+* Helped a friend conduct a Mock Interview
+* Solved problems from Python refresher on Hackerrank
+
+**Today's Accomplishments:**
+- [x] Take notes from watching AlgoExpert videos:
+    - [x] Strings
+    - [x] Graphs
+    - [x] Trees
+- Made Flash Cards of various operations on different data structures
+- Deep Dive on using Two Pointers for solving the array sum problem
+
+**Thoughts**
+* I think I'm going to start my daily schedule with deep dive with a problem or two in morning, and study core concepts / quizzes in the afternoon
