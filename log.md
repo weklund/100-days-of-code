@@ -407,3 +407,24 @@ Unfortunately a combination of meetings and distress of lead up to and after the
 
 **Thoughts**
 * I think I'm going to start my daily schedule with deep dive with a problem or two in morning, and study core concepts / quizzes in the afternoon
+
+
+### Day 27: Saturday, October 10th, 2020 :white_check_mark:
+  
+**Yesterday's Accomplishments:**
+* Finished notes for Strings, Graphs, and Trees
+* Made Flash Cards
+* Deep Dive on Two Pointers
+
+**Today's Accomplishments:**
+- Deep Dive on Validate Subsequence problem
+- 3/4 done on Deep Dive for Find Closest Value in BST
+
+
+### Day 28: Sunday, October 11th, 2020 :red_circle:
+  
+(Took the day off)
+
+### Day 29: Monday, October 12th, 2020 :red_circle:
+  
+(Took the day off)
