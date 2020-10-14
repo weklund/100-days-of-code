@@ -428,3 +428,22 @@ Unfortunately a combination of meetings and distress of lead up to and after the
 ### Day 29: Monday, October 12th, 2020 :red_circle:
   
 (Took the day off)
+
+
+### Day 30: Tuesday, October 13th, 2020 | :white_check_mark: | 6 hrs
+  
+
+**Today's Accomplishments:**
+- Completed MIT 6.006 Lecture 1 on Algorithmic Thinking and Peak Finding
+- Started on Study Guide
+
+**Thoughts**
+- My plan for study guide will be to have each common DS and Algo listed with:
+    - Brief Overview
+    - Visualize or picture of the DS/Algo
+    - Explain why it exists (Why would you choose this one over others)
+    - Pros/Cons list
+    - What is this optimized for?
+    - Big O for various operations (retrival, access, insertion, deletion, etc) 
+    - Code Implentation 
+    
