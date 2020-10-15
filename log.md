@@ -447,3 +447,17 @@ Unfortunately a combination of meetings and distress of lead up to and after the
     - Big O for various operations (retrival, access, insertion, deletion, etc) 
     - Code Implentation 
     
+    
+ 
+### Day 31: Wednesday, October 14th, 2020 | :white_check_mark: | 4 hrs
+  
+
+**Today's Accomplishments:**
+- Completed MIT 6.006 R1 and assignment setup
+- Reviewed current notes
+
+**Links**
+
+https://github.com/weklund/MIT_6.006_Intro-to-Algorithms
+
+    
