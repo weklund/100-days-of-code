@@ -460,4 +460,16 @@ Unfortunately a combination of meetings and distress of lead up to and after the
 
 https://github.com/weklund/MIT_6.006_Intro-to-Algorithms
 
+### Day 32: Thursday, October 15th, 2020 | :white_check_mark: | 6.5 hrs
+  
+
+**Today's Accomplishments:**
+- Deep Dive into E4 - Branch Sums Problem
+- Completed MIT 6.006 L1 - Models of Computation, Document Distance
+- Completed #leetcode Path Sum problem
+- Worked more on Study Guide
+
+**Links**
+
+https://leetcode.com/problems/path-sum/
     
