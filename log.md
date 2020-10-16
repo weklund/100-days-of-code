@@ -465,7 +465,7 @@ https://github.com/weklund/MIT_6.006_Intro-to-Algorithms
 
 **Today's Accomplishments:**
 - Deep Dive into E4 - Branch Sums Problem
-- Completed MIT 6.006 L1 - Models of Computation, Document Distance
+- Completed MIT 6.006 L2 - Models of Computation, Document Distance
 - Completed #leetcode Path Sum problem
 - Worked more on Study Guide
 
