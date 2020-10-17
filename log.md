@@ -473,7 +473,7 @@ https://github.com/weklund/MIT_6.006_Intro-to-Algorithms
 
 https://leetcode.com/problems/path-sum/
     
-### Day 33: Friday, October 16th, 2020 | :white_check_mark: | 6.5 hrs
+### Day 33: Friday, October 16th, 2020 | :white_check_mark: | 4.5 hrs
   
 
 **Today's Accomplishments:**
