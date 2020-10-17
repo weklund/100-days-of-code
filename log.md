@@ -473,3 +473,16 @@ https://github.com/weklund/MIT_6.006_Intro-to-Algorithms
 
 https://leetcode.com/problems/path-sum/
     
+### Day 33: Friday, October 16th, 2020 | :white_check_mark: | 6.5 hrs
+  
+
+**Today's Accomplishments:**
+- 1.5 hrs | Deep Dive into E5 - Node Depths Problem
+- 1.5 hrs | Watched/took notes on MIT 6.006 R2 - Models of Computation, Document Distance
+- .5 hrs | Learned about using literative approach with stacks to solve tree problem
+- 1 hrs | Worked more on Study Guide
+
+**Links**
+
+https://www.youtube.com/watch?v=QFcyt8fgQMU&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb&index=26
+    
