@@ -486,3 +486,13 @@ https://leetcode.com/problems/path-sum/
 
 https://www.youtube.com/watch?v=QFcyt8fgQMU&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb&index=26
     
+
+### Day 34: Saturday, October 17th, 2020 | :white_check_mark: | 4 hrs
+  
+**Today's Accomplishments:**
+- 2.5 hrs | Worked more on filling out Study Guide
+- 1.5 hrs | Watched/took notes on MIT 6.006 L3 - Insertion Sort, Merge Sort
+
+**Links**
+
+https://www.youtube.com/watch?v=Kg4bqzAqRBM&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb&index=3&t=1s
