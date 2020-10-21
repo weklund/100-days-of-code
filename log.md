@@ -496,3 +496,29 @@ https://www.youtube.com/watch?v=QFcyt8fgQMU&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2
 **Links**
 
 https://www.youtube.com/watch?v=Kg4bqzAqRBM&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb&index=3&t=1s
+
+
+### Day 35: Sunday, October 18th, 2020 | :red_circle: | 1.5 hrs
+  
+**Today's Accomplishments:**
+- 1.5 hrs | Read a few chapters from the book Grokking Algorithms
+
+**Links**
+
+https://www.amazon.com/Grokking-Algorithms-illustrated-programmers-curious/dp/1617292230
+
+
+### Day 36: Monday, October 19th, 2020 | :white_check_mark: | 3.5 hrs
+  
+**Today's Accomplishments:**
+- 1 hrs | Had a mock interview through interviewing.io
+- 1 hrs | Coded up some recursion problems from the book Grokking Algorithms
+- .5 hrs | Deep dive into E6 - Depth first Search
+- .5 hrs | Uploaded notes from MIT 6.006 L2/R2
+- .5 hrs | Prepped for FAANG behavioral interview questions
+
+
+### Day 36: Tuesday, October 20th, 2020 | :red_circle: | 1 hrs
+  
+**Today's Accomplishments:**
+- Had my first FAANG technical interview today!
