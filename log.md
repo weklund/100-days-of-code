@@ -522,3 +522,8 @@ https://www.amazon.com/Grokking-Algorithms-illustrated-programmers-curious/dp/16
   
 **Today's Accomplishments:**
 - Had my first FAANG technical interview today!
+
+
+### Day 37: Wednesday, October 21th, 2020 | :red_circle: | 0 hrs
+  
+- Off today
