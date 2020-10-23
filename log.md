@@ -530,6 +530,6 @@ https://www.amazon.com/Grokking-Algorithms-illustrated-programmers-curious/dp/16
 
 ### Day 38: Thursday, October 22th, 2020 | :white_check_mark: | 3 hrs
   
-- Deep dive on E7 - Nth Fibonacci
-- Finish MIT 6.006 R3
-- Read 2 more chapters on Grokking Algorithms
+- 1 hrs | Deep dive on E7 - Nth Fibonacci
+- 1 hrs | Finish MIT 6.006 R3
+- 1 hrs | Read 2 more chapters on Grokking Algorithms
