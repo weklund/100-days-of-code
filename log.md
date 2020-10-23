@@ -527,3 +527,9 @@ https://www.amazon.com/Grokking-Algorithms-illustrated-programmers-curious/dp/16
 ### Day 37: Wednesday, October 21th, 2020 | :red_circle: | 0 hrs
   
 - Off today
+
+### Day 38: Thursday, October 22th, 2020 | :white_check_mark: | 3 hrs
+  
+- Deep dive on E7 - Nth Fibonacci
+- Finish MIT 6.006 R3
+- Read 2 more chapters on Grokking Algorithms
