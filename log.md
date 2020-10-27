@@ -538,3 +538,18 @@ https://www.amazon.com/Grokking-Algorithms-illustrated-programmers-curious/dp/16
   
 - 1.5 hrs | Deep dive on E8 - Product Sum
 - .5 hrs | Read breath first search on Grokking Algorithms
+
+### Day 41: Saturday, October 24th, 2020 | :red_circle: | 1 hrs
+  
+- .5 hrs | Read more Grokking Algorithms
+- .5 hrs | Read up on behavioral interview prep
+
+### Day 42: Sunday, October 25th, 2020 | :red_circle: | 
+  
+- off day
+
+### Day 43: Monday, October 26th, 2020 | :red_circle: | 2 hrs
+  
+- 1 hr   | Read Grokking Algorithms Chapter
+- 1 hr   | Mock Behavioral Prep
+- .5 hrs | Review prep for 2nd FAANG technical screen
