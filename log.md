@@ -548,8 +548,22 @@ https://www.amazon.com/Grokking-Algorithms-illustrated-programmers-curious/dp/16
   
 - off day
 
-### Day 43: Monday, October 26th, 2020 | :red_circle: | 2 hrs
+### Day 43: Monday, October 26th, 2020 | :red_circle: | 2.5 hrs
   
 - 1 hr   | Read Grokking Algorithms Chapter
 - 1 hr   | Mock Behavioral Prep
 - .5 hrs | Review prep for 2nd FAANG technical screen
+
+### Day 44: Tuesday, October 27th, 2020 | :red_circle: | 2 hrs
+  
+- 1 hr   | Reviewed Graph and Tree structures
+- 1 hr   | Read Grokking Algorithms chapter on Dynamic Programming
+
+### Day 45: Wednesday, October 28th, 2020 | :red_circle: | 2 hrs
+  
+- 2 hrs   | Reviewed Systems Design interviews
+
+### Day 46: Thursday, October 29th, 2020 | :red_circle: | 2 hrs
+  
+- 1 hr   | Reviewed Systems Design format
+- 1 hr   | Systems Design Mock Interview
