@@ -575,3 +575,10 @@ https://www.amazon.com/Grokking-Algorithms-illustrated-programmers-curious/dp/16
 
 - Scheduled FAANG-2 technical screen
 - Scheduled FAANG-1 on-site final interviews
+
+### Day 48: Saturday, October 31th, 2020 | :white_check_mark: | 4.5 hrs
+  
+- 1.5 hrs | Plan out study/content schedule until FAANG-2 technical screen
+- 1 hr    | Deep dive on E10 - Find 3 Largest Numbers
+- 1 hr    | Deep dive on E11 - Bubble Sort
+- 1 hr    | Deep dive on E12 - Insertion Sort
