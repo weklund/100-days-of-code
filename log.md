@@ -568,7 +568,7 @@ https://www.amazon.com/Grokking-Algorithms-illustrated-programmers-curious/dp/16
 - 1 hr   | Reviewed Systems Design format
 - 1 hr   | Systems Design Mock Interview
 
-### Day 47: Friday, October 30th, 2020 | :red_circle: | 2 hrs
+### Day 47: Friday, October 30th, 2020 | :red_circle: | 1.5 hrs
   
 - 1 hr   | Complete E9 - Binary Search
 - .5 hrs | Reviewed feedback from Systems Design interview
