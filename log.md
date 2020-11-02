@@ -582,3 +582,10 @@ https://www.amazon.com/Grokking-Algorithms-illustrated-programmers-curious/dp/16
 - 1 hr    | Deep dive on E10 - Find 3 Largest Numbers
 - 1 hr    | Deep dive on E11 - Bubble Sort
 - 1 hr    | Deep dive on E12 - Insertion Sort
+
+### Day 49: Sunday, November 1st, 2020 | :white_check_mark: | 4.5 hrs
+  
+- 1.5 hrs | Watch MIT 6.006 L4 - Heaps and Heap Sort
+- 1 hr    | Complete E13 - Selection Sort
+- 1 hr    | Review Notes / Study Guide
+- 1 hr    | Mock Coding Interview
