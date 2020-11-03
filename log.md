@@ -589,3 +589,11 @@ https://www.amazon.com/Grokking-Algorithms-illustrated-programmers-curious/dp/16
 - 1 hr    | Complete E13 - Selection Sort
 - 1 hr    | Review Notes / Study Guide
 - 1 hr    | Mock Coding Interview
+
+### Day 50: Monday, November 2nd, 2020 | :white_check_mark: | 4.5 hrs
+  
+- 1.5 hrs | Watch FAANG Prep Coding Approach
+- .5 hrs  | Complete E14 - Check Palindrome
+- 1.5 hrs | STAR Stories
+- 1 hr    | Mock Behavior Interview
+
