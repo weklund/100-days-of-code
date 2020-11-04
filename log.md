@@ -597,3 +597,9 @@ https://www.amazon.com/Grokking-Algorithms-illustrated-programmers-curious/dp/16
 - 1.5 hrs | STAR Stories
 - 1 hr    | Mock Behavior Interview
 
+### Day 51: Tuesday, November 3rd, 2020 | :white_check_mark: | 6.5 hrs
+  
+- 3 hrs | Watch more FAANG Coding Approach
+- 2 hrs | Study Interview Tips
+- 1 hr  | Start Sorting Guide
+-.5 hrs | Watch / take notes on good interviews
