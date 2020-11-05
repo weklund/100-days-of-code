@@ -603,3 +603,10 @@ https://www.amazon.com/Grokking-Algorithms-illustrated-programmers-curious/dp/16
 - 2 hrs | Study Interview Tips
 - 1 hr  | Start Sorting Guide
 -.5 hrs | Watch / take notes on good interviews
+
+### Day 52: Wednesday, November 4th, 2020 | :white_check_mark: | 5.5 hrs
+  
+- 1 hrs | Finish Gayle's Coding Interview approach
+- 2.5 hrs | Deep Dive into DFS
+- 1 hr  | Review Problem Solving process
+- 1 hr  | Mock Coding Interview
