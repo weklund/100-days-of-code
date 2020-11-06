@@ -610,3 +610,7 @@ https://www.amazon.com/Grokking-Algorithms-illustrated-programmers-curious/dp/16
 - 2.5 hrs | Deep Dive into DFS
 - 1 hr  | Review Problem Solving process
 - 1 hr  | Mock Coding Interview
+
+### Day 53: Thursday, November 5th, 2020 | :white_check_mark: | 4.5 hrs
+  
+- 4.5 hrs | Worked on Grokking Coding Interviews - Deep dive on DFS problems
