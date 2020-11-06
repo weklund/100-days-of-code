@@ -614,3 +614,10 @@ https://www.amazon.com/Grokking-Algorithms-illustrated-programmers-curious/dp/16
 ### Day 53: Thursday, November 5th, 2020 | :white_check_mark: | 4.5 hrs
   
 - 4.5 hrs | Worked on Grokking Coding Interviews - Deep dive on DFS problems
+
+
+### Day 54: Friday, November 6th, 2020 | :white_check_mark: | 3 hrs
+  
+- 1.5 hrs | Review Graph data structure and various algos for it
+- .5 hrs  | Review problem solving approach
+- 1 hr    | FAANG Phone Interview!!
