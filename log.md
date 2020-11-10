@@ -621,3 +621,16 @@ https://www.amazon.com/Grokking-Algorithms-illustrated-programmers-curious/dp/16
 - 1.5 hrs | Review Graph data structure and various algos for it
 - .5 hrs  | Review problem solving approach
 - 1 hr    | FAANG Phone Interview!!
+
+### Day 55: Saturday, November 7th, 2020 | :red_circle: |
+  
+- Took day off
+
+### Day 56: Sunday, November 8th, 2020 | :red_circle: |
+  
+- Took day off
+
+### Day 57: Monday, November 9th, 2020 | :red_circle: | 1.5 hrs
+  
+- .5 hrs | Watched video on bitwise XOR
+- 1 hr   | Worked on algorithms
