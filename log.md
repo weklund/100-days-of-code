@@ -634,3 +634,8 @@ https://www.amazon.com/Grokking-Algorithms-illustrated-programmers-curious/dp/16
   
 - .5 hrs | Watched video on bitwise XOR
 - 1 hr   | Worked on algorithms
+
+### Day 58: Tuesday, November 10th, 2020 | :red_circle: | 1.5 hrs
+  
+- 1 hr   | Grokking DFS
+- .5 hrs | Review E4-E9
