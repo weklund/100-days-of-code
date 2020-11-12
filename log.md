@@ -639,3 +639,11 @@ https://www.amazon.com/Grokking-Algorithms-illustrated-programmers-curious/dp/16
   
 - 1 hr   | Grokking DFS
 - .5 hrs | Review E4-E9
+
+### Day 59: Wednesday, November 11th, 2020 | :white_check_mark: | 5 hrs
+  
+- 1 hr   | Deep dive on E15 Cipher Encryptor
+- 1.5 hrs | Deep dive on LC FAANG #3
+- 1 hr    | Deep dive on LC FAANG #1192
+- 1 hr    | Call with FAANG for on-site prep
+- .5 hrs  | Call with FAANG-3 recruiter
