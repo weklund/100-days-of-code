@@ -647,3 +647,9 @@ https://www.amazon.com/Grokking-Algorithms-illustrated-programmers-curious/dp/16
 - 1 hr    | Deep dive on LC FAANG #1192
 - 1 hr    | Call with FAANG for on-site prep
 - .5 hrs  | Call with FAANG-3 recruiter
+
+### Day 60: Thursday, November 12th, 2020 | :white_check_mark: | 7.5 hrs
+  
+- 4 hrs   | Craft behavioral stories using STAR
+- 2 hrs   | Review Systems Design guide
+- 1.5 hrs | Review prep / gaps and plan schedule til on-sites
