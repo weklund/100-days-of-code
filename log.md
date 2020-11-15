@@ -653,3 +653,12 @@ https://www.amazon.com/Grokking-Algorithms-illustrated-programmers-curious/dp/16
 - 4 hrs   | Craft behavioral stories using STAR
 - 2 hrs   | Review Systems Design guide
 - 1.5 hrs | Review prep / gaps and plan schedule til on-sites
+
+### Day 61: Friday, November 13th, 2020 | :white_check_mark: | 7.5 hrs
+  
+- 6 hrs   | Solving Sliding window problems
+- 1.5 hrs | Mock coding interview using @interviewingio
+
+### Day 62: Saturday, November 14th, 2020 | :red_circle: 
+  
+- Took the day off
