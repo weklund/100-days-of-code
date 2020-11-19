@@ -662,3 +662,20 @@ https://www.amazon.com/Grokking-Algorithms-illustrated-programmers-curious/dp/16
 ### Day 62: Saturday, November 14th, 2020 | :red_circle: 
   
 - Took the day off
+
+### Day 63: Sunday, November 15th, 2020 | :red_circle: | 1 hr
+  
+- 1 hr | Review LPs
+
+### Day 64: Monday, November 16th, 2020 |  1.5 hrs
+  
+- 1 hr   | Behavior mock interview
+- .5 hrs | FAANG-3 call for on-sites
+
+### Day 65: Tuesday, November 17th, 2020 | 2 hrs
+  
+- 2 hrs   | System Design Mock interview
+
+### Day 66: Wednesday, November 18th, 2020 | 1 hr
+  
+- 1 hr | Behavior mock interview
