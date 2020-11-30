@@ -1,27 +1,27 @@
 # 100 Days Of Code - Log
 
-### Day 0: September 7th, 2020 
+### Day 0: Monday, September 7th, 2020 | :white_check_mark: | 2 hrs
 
-**Today's Progress:** First stream, planning out my #100daysofcode schedule, app planning
+**Today's Progress:** 2 hrs | First stream, planning out my #100daysofcode schedule, app planning
 
 **Thoughts:** Not a lot of code written, but a lot of system, api, model design for `figure out dinner` app
 
 **Link to work:** [Figure Out Dinner](https://github.com/weklund/figure-out-dinner-app)
 
-### Day 1: September 8th, 2020 
+### Day 1: Tuesday, September 8th, 2020 | :white_check_mark: | 1 hr
 
-**Today's Progress:** Starting review of [Algorithms Illuminated by Tim Roughgarden](http://www.algorithmsilluminated.org/)
+**Today's Progress:** 1 hr | Starting review of [Algorithms Illuminated by Tim Roughgarden](http://www.algorithmsilluminated.org/)
 
 **Thoughts:** Rereading chapter one, created a repo so I can implement algos in the material on python notebooks.  Also thought about `figure out dinner`, maybe I should look into barcode apis as phase two and ingredient detection in a later phase
 
 **Link to work:** [Algo review repo](https://github.com/weklund/algorithms-illuminated-notes)
 
 
-### Day 2: September 12th, 2020 
+### Day 2: Saturday, September 12th, 2020 | :white_check_mark: | 2 hrs
 
 **Today's Progress:** 
- * Got local notebook environment working
- * Implemented a working Karatsuba Multiplication solution with recursion from section 1.3 of [Algorithms Illuminated by Tim Roughgarden](http://www.algorithmsilluminated.org/)
+ * .5 hrs  | Got local notebook environment working
+ * 1.5 hrs | Implemented a working Karatsuba Multiplication solution with recursion from section 1.3 of [Algorithms Illuminated by Tim Roughgarden](http://www.algorithmsilluminated.org/)
 
 **Thoughts:**
 * Discovered great content from [Adam](https://adamlearns.com/) who just received multiple offers from FAANG companies, who streamed for 2 straight months for prep 
@@ -36,12 +36,12 @@
 
 
 
-### Day 3: September 13th, 2020 
+### Day 3: Sunday, September 13th, 2020 | :white_check_mark: | 3.5 hrs
 
 **Today's Progress:** 
- * Started on Grokking the Coding Interview, created a [repo](https://github.com/weklund/patterns-for-coding-questions) for note taking of various patterns
- * Explained the Sliding Window pattern and where it can be used
- * Completed Max Sum of Subarray of Size K problem using Sliding Window
+ * 1 hr    | Started on Grokking the Coding Interview, created a [repo](https://github.com/weklund/patterns-for-coding-questions) for note taking of various patterns
+ * 1 hr    | Explained the Sliding Window pattern and where it can be used
+ * 1.5 hrs | Completed Max Sum of Subarray of Size K problem using Sliding Window
 
 **Thoughts:**
  * It's tough to clean the rust of Python while streaming and reviewing forgotten concepts lol 
@@ -50,7 +50,7 @@
 **Links:** 
 * [Sliding Window Notebook](https://github.com/weklund/patterns-for-coding-questions/tree/master/sliding-window)
 
-### Day 4: September 14th, 2020
+### Day 4: Monday, September 14th, 2020 | :white_check_mark: | 1.5 hrs
 
 **Yesterday's Accomplishments:**
  * Started Grokking the Coding Interview
@@ -61,7 +61,7 @@
  * Remember to read through logic before immediately starting to debug (printing fun)
 
 **Today's Accomplishments:** 
- * Completed Smallest Subarray with a given sum problem using Sliding Window 
+ * 1.5 hrs | Completed Smallest Subarray with a given sum problem using Sliding Window 
  * Did not have to print anything during my debugging, getting better at mentally reviewing buggy code
 
 **Thoughts:**
@@ -71,7 +71,7 @@
 **Links:**
 [Notebook](https://github.com/weklund/patterns-for-coding-questions/blob/master/sliding-window/Smallest_subarray_with_a_given_sum.ipynb)
 
-### Day 5: September 15th, 2020
+### Day 5: Tuesday, September 15th, 2020 | :white_check_mark: | 2 hrs
 
 **Yesterday's Accomplishments:**
  * Completed smallest subarray with given sum question
@@ -82,7 +82,7 @@
  * Try to implement the optimal solution without looking
 
 **Today's Accomplishments:** 
- * Completed longest substring with k distinct characters
+ * 2 hrs | Completed longest substring with k distinct characters
  * Learned a more elegant way to compare my traversals from watchers
 
 **Thoughts:**
@@ -99,7 +99,7 @@ Someone also mentioned I should look at:
 [AlgoExpert](https://www.algoexpert.io/product)
 
 
-### Day 6: September 17th, 2020
+### Day 6: Thursday, September 17th, 2020 | :white_check_mark: | 2.5 hrs
 
 **Yesterday's Accomplishments:**
  * Completed longest substring of k distinct characters
@@ -112,8 +112,8 @@ Someone also mentioned I should look at:
 
 **Today's Accomplishments:** 
  * Biggest goal met was designing the entire logic for the naive solution without writing a single line of code
- * Completed fruit basket problem
- * Was able to recall the entire solution from memory from longest substring of k distinct characters
+ * 2 hrs  | Completed fruit basket problem
+ * .5 hrs | Was able to recall the entire solution from memory from longest substring of k distinct characters
 
 **Thoughts:**
  * Get feedback on my solution design / pseudocode ish.  Was it too iterative?
@@ -127,7 +127,7 @@ Someone also mentioned I should look at:
 **Links:**
  [Notebook](https://github.com/weklund/patterns-for-coding-questions/blob/master/sliding-window/fruits_into_baskets.ipynb)
  
- ### Day 7: September 18th, 2020
+ ### Day 7: Friday, September 18th, 2020 | :white_check_mark: | 2 hrs
  
  **Yesterday's Accomplishments:**
   * Designed an entire naive solution before writing a single line of code
@@ -159,7 +159,7 @@ Someone also mentioned I should look at:
   * Remember to read through logic before immediately starting to debug (printing fun) (again)
   
  **Today's Accomplishments:** 
-  * Completed no repeat substring
+  * 2 hrs | Completed no repeat substring
   * Designed both naive and optimal solutions before coding them (will illustrations)
   * No printing needed during debugging
  
@@ -172,7 +172,7 @@ Someone also mentioned I should look at:
  - [Notebook](https://github.com/weklund/patterns-for-coding-questions/blob/master/sliding-window/no-repeat-substring.ipynb)
  
  
- ### Day 8: September 21th, 2020
+ ### Day 8: Monday, September 21th, 2020 | :white_check_mark: | 1.5 hrs
   
   **Yesterday's Accomplishments:**
    * Completed no repeat substring
@@ -183,7 +183,7 @@ Someone also mentioned I should look at:
    * Complete problem
    
   **Today's Accomplishments:** 
-   * Completed Longest substring with same letter replacement problem
+   * 1.5 hrs | Completed Longest substring with same letter replacement problem
    * My Naive solution ended up being as efficient as what a sliding window implementation would be
   
   **Thoughts:**
@@ -194,7 +194,7 @@ Someone also mentioned I should look at:
   * [Notebook](https://github.com/weklund/patterns-for-coding-questions/blob/master/sliding-window/longest_substring_with_same_letters_replacement.ipynb)
   
  
- ### Day 9: September 22th, 2020
+ ### Day 9: Tuesday, September 22th, 2020 | :red_circle: | .5 hrs
   
 **Yesterday's Accomplishments:**
  * Completed longest substring with k replaced characters
@@ -210,29 +210,29 @@ Someone also mentioned I should look at:
 
 **Links:**
 
-### Days 10 - 13: September 23th - September 26th 2020
+### Days 10 - 13: September 23th - September 26th 2020 | :red_circle:
 
 Unfortunately a combination of meetings and distress of lead up to and after the announcement from the Kentucky AG about Breonna Taylor :(
 
-### Day 14: September 27th 2020
+### Day 14: Sunday, September 27th 2020 | :red_circle: | 1 hr
 
 **Today's Accomplishments:**  
-* Wrote up Check Mirrored Trees Problem
+* 1 hr | Wrote up Check Mirrored Trees Problem
 
-### Day 15: September 28th 2020
+### Day 15: Monday, September 28th 2020 | :white_check_mark: | 3.5 hrs
 
 **Today's Accomplishments:** 
 
-* Published my first DEV.to article 
-* Completed a LeetCode mock interview where I answered an easy and a medium question under a timelimit.
-* Highlighted all my previous naive and optimal solutions from streams before the broadcasts disappear
+* .5 hrs  | Published my first DEV.to article 
+* 1.5 hrs | Completed a LeetCode mock interview where I answered an easy and a medium question under a timelimit.
+* 1.5 hrs | Highlighted all my previous naive and optimal solutions from streams before the broadcasts disappear
 
 **Links:**
 
 * [DEV.to article](https://dev.to/weklund/first-dev-post-yet-another-post-about-interviewing-for-faang-100daysofcode-3i1j)
 * [Leetcode mock interview question](https://leetcode.com/problems/prison-cells-after-n-days/)
  
-### Day 16: September 29th, 2020
+### Day 16: Tuesday, September 29th, 2020 | :white_check_mark: | 2 hrs
   
 **Yesterday's Accomplishments:**
  * Published my first DEV article
@@ -244,14 +244,14 @@ Unfortunately a combination of meetings and distress of lead up to and after the
 * Continue to reinforce better interview habits (illustrating design, debugging mentally)
 
 **Today's Accomplishments:** 
-* Debugged Check Mirror Trees (test case was wrong :( )
-* See optimal solution for prison cells but do not fully understand
+* 1 hr | Debugged Check Mirror Trees (test case was wrong :( )
+* 1 hr | See optimal solution for prison cells but do not fully understand
 
 **Thoughts:**
 * Do not want to call prison cells done until I go through the bitwise XOR section on Grokking
 **Links:**
 
-### Day 17: September 30th, 2020
+### Day 17: Wednesday, September 30th, 2020 | :red_circle: | 1 hr
   
 **Yesterday's Accomplishments:**
  * Debugged is mirror tree code
@@ -261,13 +261,13 @@ Unfortunately a combination of meetings and distress of lead up to and after the
 * Mock interview
 
 **Today's Accomplishments:** 
-* Did not pass mock interview but learned a great optimal solution using stacks
+* 1 hr | Did not pass mock interview but learned a great optimal solution using stacks
 * Have in person mock scheduled for tomorrow
 
 **Links:**
 * [Mock interview question](https://leetcode.com/problems/basic-calculator/)
 
-### Day 18: October 1st, 2020 :white_check_mark:
+### Day 18: Thursday, October 1st, 2020 | :white_check_mark: | 2 hrs
   
 **Yesterday's Accomplishments:**
  * Mock Interview given Basic Calculator problem
@@ -278,7 +278,7 @@ Unfortunately a combination of meetings and distress of lead up to and after the
 * Start writing "Why I suck at Coding Interview" (Refer to start of stream monologue)
 
 **Today's Accomplishments:** 
-* Started on 5.2, designed solution in pseudocode 
+* 2 hrs | Started on 5.2, designed solution in pseudocode 
 
 **Thoughts**
 * Forgot that `//` is cool.  Better than using `floor()` for floor division
@@ -286,52 +286,52 @@ Unfortunately a combination of meetings and distress of lead up to and after the
 **Links:**
 * [EPI 4.8 - Reverse String (Digits)](https://leetcode.com/problems/reverse-string/)
 
-### Day 19: Friday, October 2nd, 2020 :red_circle:
+### Day 19: Friday, October 2nd, 2020 | :red_circle: | 1 hr
   
 **Yesterday's Accomplishments:**
 * Started on 5.2 of EPI
  
 **Today's Accomplishments:** 
-* Watched some 'Welcome to the coding interview: you suck' videos
+* 1 hr | Watched some 'Welcome to the coding interview: you suck' videos
 
-### Day 20: Saturday, October 3rd, 2020 :red_circle:
+### Day 20: Saturday, October 3rd, 2020 | :red_circle: | .5 hrs
   
 **Yesterday's Accomplishments:**
 * Watched some videos
  
 **Today's Accomplishments:** 
-* Created a Python notebook to refresh syntax and standard library functions
+* .5 hrs | Created a Python notebook to refresh syntax and standard library functions
 
-### Day 21: Sunday, October 4th, 2020 :red_circle:
+### Day 21: Sunday, October 4th, 2020 | :red_circle: | 1 hr
   
 **Yesterday's Accomplishments:**
 * Created a Python notebook to refresh syntax and standard library functions
  
 **Today's Accomplishments:** 
-* Took notes from AlgoExpert Data Structures video
+* 1 hr | Took notes from AlgoExpert Data Structures video
 
-### Day 22: Monday, October 5th, 2020 :red_circle:
+### Day 22: Monday, October 5th, 2020 | :red_circle: | .5 hrs
   
 **Yesterday's Accomplishments:**
 * Took notes from AlgoExpert Data Structures video
  
 **Today's Accomplishments:** 
-* Did a Algos prep quiz
+* .5 hrs | Did a Algos prep quiz
 
-### Day 23: Tuesday, October 6th, 2020 :white_check_mark:
+### Day 23: Tuesday, October 6th, 2020 | :white_check_mark: | 4 hrs 
   
 **Yesterday's Accomplishments:**
 * Took a algo quiz
 
 **Today's Goals:**
 - [x] Catch up #100DaysOfCode log
-- [x] Take notes from watching AlgoExpert videos:
+- 1.5 hrs |  [x] Take notes from watching AlgoExpert videos:
     - [x] Memory
     - [x] Big O
     - [x] Log
     - [ ] Arrays
     - [ ] Linked Lists
-- [x] Stream EPI 5.2 + 5.17
+- 2.5 hrs | [x] Stream EPI 5.2 + 5.17
 - [x] Start 'Why I suck at Coding Interviews'
 - [ ] Leetcode October Challenge question
 - [ ] Twitch Chatbot (!today, !question) and timer countdown 
@@ -351,7 +351,7 @@ Unfortunately a combination of meetings and distress of lead up to and after the
 - [Sudoku](https://github.com/weklund/patterns-for-coding-questions/blob/master/EPIs/5-17_valid-sudoku.ipynb))
 
 
-### Day 24: Wednesday, October 7th, 2020 :white_check_mark:
+### Day 24: Wednesday, October 7th, 2020 | :white_check_mark: | 2.5 hrs
   
 **Yesterday's Accomplishments:**
 * Completed EPI 5.2 - Plus One
@@ -359,11 +359,11 @@ Unfortunately a combination of meetings and distress of lead up to and after the
 * Solved problems from Python refresher on Hackerrank
 
 **Today's Accomplishments:**
-- [x] Take notes from watching AlgoExpert videos:
+- 1 hr   | [x] Take notes from watching AlgoExpert videos:
     - [x] Arrays
     - [x] Linked Lists
-- [x] Mock Interview
-- [x] Start 'Why I suck at Coding Interviews'
+- 1 hr   | [x] Mock Interview
+- .5 hrs |[x] Start 'Why I suck at Coding Interviews'
 - [ ] Leetcode October Challenge question
 - [ ] Twitch Chatbot (!today, !question) and timer countdown 
 
@@ -372,7 +372,7 @@ Unfortunately a combination of meetings and distress of lead up to and after the
 * Stop thinking I need to rush the material.  Becoming a master of the topics will come, just keep putting in the hours every day
 
 
-### Day 25: Thursday, October 8th, 2020 :white_check_mark:
+### Day 25: Thursday, October 8th, 2020 | :white_check_mark: | 3.5 hrs 
   
 **Yesterday's Accomplishments:**
 * Mock Interview
@@ -380,17 +380,17 @@ Unfortunately a combination of meetings and distress of lead up to and after the
 * Solved problems from Python refresher on Hackerrank
 
 **Today's Accomplishments:**
-- [x] Take notes from watching AlgoExpert videos:
+- 1 hr    | [x] Take notes from watching AlgoExpert videos:
     - [x] Hash Tables
     - [x] Stacks and Queues
-- [x] Helped a friend conduct a Mock Interview
-- [x] 2 Problems on Hackerrank Python refresher
+- 1.5 hrs | [x] Helped a friend conduct a Mock Interview
+- 1 hr    | [x] 2 Problems on Hackerrank Python refresher
 
 **Thoughts**
 * I think I'm going to make flash cards on the time complexities of each operation for every data structure (set, insertion, deletion, search etc etc)
 
 
-### Day 26: Friday, October 9th, 2020 :white_check_mark:
+### Day 26: Friday, October 9th, 2020 | :white_check_mark: | 4 hrs
   
 **Yesterday's Accomplishments:**
 * Notes for Hash tables, Stacks and queues
@@ -398,18 +398,18 @@ Unfortunately a combination of meetings and distress of lead up to and after the
 * Solved problems from Python refresher on Hackerrank
 
 **Today's Accomplishments:**
-- [x] Take notes from watching AlgoExpert videos:
+- 2.5 hrs | [x] Take notes from watching AlgoExpert videos:
     - [x] Strings
     - [x] Graphs
     - [x] Trees
-- Made Flash Cards of various operations on different data structures
-- Deep Dive on using Two Pointers for solving the array sum problem
+- .5 hrs  | Made Flash Cards of various operations on different data structures
+- 1.5 hrs | Deep Dive on using Two Pointers for solving the array sum problem
 
 **Thoughts**
 * I think I'm going to start my daily schedule with deep dive with a problem or two in morning, and study core concepts / quizzes in the afternoon
 
 
-### Day 27: Saturday, October 10th, 2020 :white_check_mark:
+### Day 27: Saturday, October 10th, 2020 | :white_check_mark: | 3.5 hrs
   
 **Yesterday's Accomplishments:**
 * Finished notes for Strings, Graphs, and Trees
@@ -417,15 +417,15 @@ Unfortunately a combination of meetings and distress of lead up to and after the
 * Deep Dive on Two Pointers
 
 **Today's Accomplishments:**
-- Deep Dive on Validate Subsequence problem
-- 3/4 done on Deep Dive for Find Closest Value in BST
+- 2 hrs   | Deep Dive on Validate Subsequence problem
+- 1.5 hrs | 3/4 done on Deep Dive for Find Closest Value in BST
 
 
-### Day 28: Sunday, October 11th, 2020 :red_circle:
+### Day 28: Sunday, October 11th, 2020 | :yellow_circle: | 0
   
 (Took the day off)
 
-### Day 29: Monday, October 12th, 2020 :red_circle:
+### Day 29: Monday, October 12th, 2020 | :red_circle: | 0
   
 (Took the day off)
 
@@ -434,8 +434,8 @@ Unfortunately a combination of meetings and distress of lead up to and after the
   
 
 **Today's Accomplishments:**
-- Completed MIT 6.006 Lecture 1 on Algorithmic Thinking and Peak Finding
-- Started on Study Guide
+- 2 hrs | Completed MIT 6.006 Lecture 1 on Algorithmic Thinking and Peak Finding
+- 4 hrs | Started on Study Guide
 
 **Thoughts**
 - My plan for study guide will be to have each common DS and Algo listed with:
@@ -453,8 +453,8 @@ Unfortunately a combination of meetings and distress of lead up to and after the
   
 
 **Today's Accomplishments:**
-- Completed MIT 6.006 R1 and assignment setup
-- Reviewed current notes
+- 3.5 hrs | Completed MIT 6.006 R1 and assignment setup
+- .5 hrs  | Reviewed current notes
 
 **Links**
 
@@ -464,10 +464,10 @@ https://github.com/weklund/MIT_6.006_Intro-to-Algorithms
   
 
 **Today's Accomplishments:**
-- Deep Dive into E4 - Branch Sums Problem
-- Completed MIT 6.006 L2 - Models of Computation, Document Distance
-- Completed #leetcode Path Sum problem
-- Worked more on Study Guide
+- 1.5 hrs | Deep Dive into E4 - Branch Sums Problem
+- 2 hrs   | Completed MIT 6.006 L2 - Models of Computation, Document Distance
+- 2 hrs   | Completed #leetcode Path Sum problem
+- .5 hrs  | Worked more on Study Guide
 
 **Links**
 
@@ -518,13 +518,13 @@ https://www.amazon.com/Grokking-Algorithms-illustrated-programmers-curious/dp/16
 - .5 hrs | Prepped for FAANG behavioral interview questions
 
 
-### Day 37: Tuesday, October 20th, 2020 | :red_circle: | 1 hrs
+### Day 37: Tuesday, October 20th, 2020 | :yellow_circle: | 1 hrs
   
 **Today's Accomplishments:**
 - Had my first FAANG technical interview today!
 
 
-### Day 38: Wednesday, October 21th, 2020 | :red_circle: | 0 hrs
+### Day 38: Wednesday, October 21th, 2020 | :yellow_circle: | 0 hrs
   
 - Off today
 
@@ -544,7 +544,7 @@ https://www.amazon.com/Grokking-Algorithms-illustrated-programmers-curious/dp/16
 - .5 hrs | Read more Grokking Algorithms
 - .5 hrs | Read up on behavioral interview prep
 
-### Day 42: Sunday, October 25th, 2020 | :red_circle: | 
+### Day 42: Sunday, October 25th, 2020 | :red_circle: | 0
   
 - off day
 
@@ -622,11 +622,11 @@ https://www.amazon.com/Grokking-Algorithms-illustrated-programmers-curious/dp/16
 - .5 hrs  | Review problem solving approach
 - 1 hr    | FAANG Phone Interview!!
 
-### Day 55: Saturday, November 7th, 2020 | :red_circle: |
+### Day 55: Saturday, November 7th, 2020 | :yellow_circle: | 0
   
 - Took day off
 
-### Day 56: Sunday, November 8th, 2020 | :red_circle: |
+### Day 56: Sunday, November 8th, 2020 | :yellow_circle: | 0
   
 - Took day off
 
@@ -659,7 +659,7 @@ https://www.amazon.com/Grokking-Algorithms-illustrated-programmers-curious/dp/16
 - 6 hrs   | Solving Sliding window problems
 - 1.5 hrs | Mock coding interview using @interviewingio
 
-### Day 62: Saturday, November 14th, 2020 | :red_circle: 
+### Day 62: Saturday, November 14th, 2020 | :yellow_circle: | 0
   
 - Took the day off
 
@@ -667,15 +667,19 @@ https://www.amazon.com/Grokking-Algorithms-illustrated-programmers-curious/dp/16
   
 - 1 hr | Review LPs
 
-### Day 64: Monday, November 16th, 2020 |  1.5 hrs
+### Day 64: Monday, November 16th, 2020 |  :yellow_circle: | 1.5 hrs
   
 - 1 hr   | Behavior mock interview
 - .5 hrs | FAANG-3 call for on-sites
 
-### Day 65: Tuesday, November 17th, 2020 | 2 hrs
+### Day 65: Tuesday, November 17th, 2020 | :yellow_circle: | 2 hrs
   
 - 2 hrs   | System Design Mock interview
 
-### Day 66: Wednesday, November 18th, 2020 | 1 hr
+### Day 66: Wednesday, November 18th, 2020 | :yellow_circle: | 1 hr
   
 - 1 hr | Behavior mock interview
+
+### Day 67: Thursday, November 19th, 2020 | :white_check_mark: | 6 hours
+
+- 6 hrs | FAANG-1 final interviews
