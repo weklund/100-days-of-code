@@ -1,0 +1,129 @@
+day,order,description,description_context,duration (hours),"type (DS/Algos, System Design, Behavioral)"
+1,1,"First stream, planning out my #100daysofcode schedule, app planning",,2,DS/Algos
+2,1,Starting review of Algorithms Illuminated by Tim Roughgarden,Algorithms Illuminated,1,DS/Algos
+3,1,Got local notebook environment working,,0.5,DS/Algos
+3,2,Implemented a working Karatsuba Multiplication solution with recursion from section 1.3 of Algorithms Illuminated by Tim Roughgarden,Algorithms Illuminated,1.5,DS/Algos
+4,1,"Started on Grokking the Coding Interview, created a repo for note taking of various patterns",Grokking Coding Interview,1,DS/Algos
+4,2,Explained the Sliding Window pattern and where it can be used,Grokking Coding Interview,1,DS/Algos
+4,3,Completed Max Sum of Subarray of Size K problem using Sliding Window,Grokking Coding Interview,1.5,DS/Algos
+5,1,Completed Smallest Subarray with a given sum problem using Sliding Window,Grokking Coding Interview,1.5,DS/Algos
+6,1,Completed longest substring with k distinct characters,Grokking Coding Interview,2,DS/Algos
+7,1,Completed fruit basket problem,Grokking Coding Interview,2,DS/Algos
+7,2,Recall the entire solution from memory from longest substring of k distinct characters,Grokking Coding Interview,0.5,DS/Algos
+8,1,Completed no repeat substring,Grokking Coding Interview,2,DS/Algos
+9,1,Completed Longest substring with same letter replacement problem,Grokking Coding Interview,1.5,DS/Algos
+10,1,Reviewed Debugging mentally,,0.5,DS/Algos
+15,1,Wrote up Check Mirrored Trees Problem,,1,DS/Algos
+16,1,Published my first DEV.to article,,0.5,DS/Algos
+16,2,Completed a LeetCode mock interview where I answered an easy and a medium question under a timelimit.,Leetcode,1.5,DS/Algos
+16,3,Highlighted all my previous naive and optimal solutions from streams before the broadcasts disappear,Streaming,1.5,DS/Algos
+17,1,Debugged Check Mirror Trees (test case was wrong :( ),,1,DS/Algos
+17,2,See optimal solution for prison cells but do not fully understand,,1,DS/Algos
+18,1,Mock Coding Interview,,1,DS/Algos
+19,1,"Started on 5.2, designed solution in pseudocode",Elements of Programming Interviews Python,2,DS/Algos
+20,1,Watched some 'Welcome to the coding interview: you suck' videos,,1,DS/Algos
+21,1,Created a Python notebook to refresh syntax and standard library functions,,0.5,DS/Algos
+22,1,Took notes from AlgoExpert Data Structures video,AlgoExpert,1,DS/Algos
+23,1,Did a Algos prep quiz,,0.5,DS/Algos
+24,1,Completed 5.2 ,Elements of Programming Interviews Python,1.5,DS/Algos
+24,2,"Took notes from AlgoExpert - Memory, Big O, Log",AlgoExpert,1.5,DS/Algos
+25,1,"Took notes from AlgoExpert - Array, Linked Lists",AlgoExpert,1,DS/Algos
+25,2,Mock Coding Interview,,1,DS/Algos
+25,3,Read 'Welcome to The Coding Interview. You Suck',,0.5,DS/Algos
+26,1,"Took notes from AlgoExpert - Hash Tables, Stacks, and Queues",AlgoExpert,1,DS/Algos
+26,2,Helped a friend conduct a Mock Interview,,1.5,DS/Algos
+26,3,2 Problems on Hackerrank Python refresher,Hackerrank,1,DS/Algos
+27,1,"Took notes from AlgoExpert - Strings, Graphs, and Trees",AlgoExpert,2.5,DS/Algos
+27,2,Made Flash Cards of various operations on different data structures,,0.5,DS/Algos
+27,3,Deep dive on using Two Pointers for solving the array sum problem,AlgoExpert,1.5,DS/Algos
+28,1,Deep dive on Validate Subsequence problem,AlgoExpert,2,DS/Algos
+28,2,3/4 done on deep dive for Find Closest Value in BST,AlgoExpert,1.5,DS/Algos
+29,1,Took day off,,0,
+30,1,Took day off,,0,
+31,1,Completed MIT 6.006 Lecture 1 on Algorithmic Thinking and Peak Finding,MIT 6.006,2,DS/Algos
+31,2,Started on writing Study Guide,,4,DS/Algos
+32,1,Completed MIT 6.006 R1 and assignment setup,MIT 6.006,3.5,DS/Algos
+32,2,Reviewed current notes,,0.5,DS/Algos
+33,1,Deep dive into E4 - Branch Sums Problem,AlgoExpert,1.5,DS/Algos
+33,2,"Completed MIT 6.006 L2 - Models of Computation, Document Distance",MIT 6.006,2,DS/Algos
+33,3,Completed leetcode Path Sum problem,Leetcode,2,DS/Algos
+33,4,Worked on Study Guide,,0.5,DS/Algos
+34,1,Deep dive into E5 - Node Depths Problem,AlgoExpert,1.5,DS/Algos
+34,2,"Watched/took notes on MIT 6.006 R2 - Models of Computation, Document Distance",MIT 6.006,1.5,DS/Algos
+34,3,Learned about using literative approach with stacks to solve tree problem,,0.5,DS/Algos
+34,4,Worked more on Study Guide,,1,DS/Algos
+35,1,Worked more on filling out Study Guide,,2.5,DS/Algos
+35,2,"Watched/took notes on MIT 6.006 L3 - Insertion Sort, Merge Sort",MIT 6.006,1.5,DS/Algos
+36,1,Read a few chapters from the book Grokking Algorithms,Grokking Algorithms,1.5,DS/Algos
+37,1,Had a mock interview through interviewing.io,interviewing.io,1,DS/Algos
+37,2,Coded up some recursion problems from the book Grokking Algorithms,Grokking Algorithms,1,DS/Algos
+37,3,Deep dive into E6 - Depth first Search,AlgoExpert,0.5,DS/Algos
+37,4,Uploaded notes from MIT 6.006 L2/R2,MIT 6.006,0.5,DS/Algos
+37,5,Prepped for FAANG behavioral interview questions,,0.5,Behavioral
+38,1,Had my first FAANG technical interview today!,,1,
+39,1,Took day off,,0,
+40,1,Deep dive on E7 - Nth Fibonacci,AlgoExpert,1,DS/Algos
+40,2,Finish MIT 6.006 R3,MIT 6.006,1,DS/Algos
+40,3,Read 2 more chapters on Grokking Algorithms,Grokking Algorithms,1,DS/Algos
+41,1,Deep dive on E8 - Product Sum,AlgoExpert,1.5,DS/Algos
+41,2,Read breath first search on Grokking Algorithms,Grokking Algorithms,0.5,DS/Algos
+42,1,Read more Grokking Algorithms,Grokking Algorithms,0.5,DS/Algos
+42,2,Read up on behavioral interview prep,,0.5,Behavioral
+43,1,Took day off,,0,
+44,1,Read Grokking Algorithms Chapter,Grokking Algorithms,1,DS/Algos
+44,2,Mock Behavioral Interview,,1,Behavioral
+44,3,Review prep for 2nd FAANG technical screen,,0.5,DS/Algos
+45,1,Reviewed Graph and Tree structures,,1,DS/Algos
+45,2,Read Grokking Algorithms chapter on Dynamic Programming,Grokking Algorithms,1,DS/Algos
+46,1,Review System Design Interview,,2,System Design
+47,1,Reviewed System Design format ,,1,System Design
+47,2,System Design Mock Interview,,1,System Design
+48,1,Complete E9 - Binary Search,AlgoExpert,1,DS/Algos
+48,2,Reviewed feedback from Systems Design interview,,0.5,System Design
+49,1,Plan out study/content schedule until FAANG-2 technical screen,,1.5,DS/Algos
+49,2,Deep dive on E10 - Find 3 Largest Numbers,AlgoExpert,1,DS/Algos
+49,3,Deep dive on E11 - Bubble Sort,AlgoExpert,1,DS/Algos
+49,4,Deep dive on E12 - Insertion Sort,AlgoExpert,1,DS/Algos
+50,1,Watch MIT 6.006 L4 - Heaps and Heap Sort,MIT 6.006,1.5,DS/Algos
+50,2,Complete E13 - Selection Sort,AlgoExpert,1,DS/Algos
+50,3,Review Notes / Study Guide,,1,DS/Algos
+50,4,Coding Mock Interview,,1,DS/Algos
+51,1,Watch FAANG Prep Coding Approach,,1.5,DS/Algos
+51,2,Complete E14 - Check Palindrome,AlgoExpert,0.5,DS/Algos
+51,3,STAR Stories,,1.5,Behavioral
+51,4,Mock Behavior Interview,,1,Behavioral
+52,1,Watch more FAANG Coding Approach,,3,DS/Algos
+52,2,Study Interview Tips,,2,DS/Algos
+52,3,Start Sorting Guide,,1,DS/Algos
+52,4,Watch / take notes on good interviews,,0.5,DS/Algos
+53,1,Finish Gayle's Coding Interview approach,,1,DS/Algos
+53,2,Deep Dive into DFS,,2.5,DS/Algos
+53,3,Review Problem Solving process,,1,DS/Algos
+53,4,Mock Coding Interview,,1,DS/Algos
+54,1,Worked on Grokking Coding Interviews - Deep dive on DFS problems,Grokking Coding Interview,4.5,DS/Algos
+55,1,Review Graph data structure and various algos for it,,1.5,DS/Algos
+55,2,Review problem solving approach,,0.5,DS/Algos
+55,3,FAANG Phone Interview,,1,DS/Algos
+56,1,Took day off,,0,
+57,1,Took day off,,0,
+58,1,Watched video on bitwise XOR,,0.5,DS/Algos
+58,2,Worked on algorithms,,1,DS/Algos
+59,1,Grokking DFS,Grokking Coding Interview,1,DS/Algos
+59,2,Review E4-E9,AlgoExpert,0.5,DS/Algos
+60,1,Deep dive on E15 Cipher Encryptor,,1,DS/Algos
+60,2,Deep dive on LC FAANG #3,Leetcode,1.5,DS/Algos
+60,3,Deep dive on LC FAANG #1192,Leetcode,1,DS/Algos
+60,4,Call with FAANG for on-site prep,,1,
+60,5,Call with FAANG-3 recruiter,,0.5,
+61,1,Craft behavioral stories using STAR,,4,Behavorial
+61,2,Review Systems Design guide,,2,System Design
+61,3,Review prep / gaps and plan schedule til on-sites,,1.5,
+62,1,Solve Sliding Window Problems,Grokking Coding Interview,6,DS/Algos
+62,2,Mock Coding Interview,interviewing.io,1.5,DS/Algos
+63,1,Took day off,,0,
+64,1,Review LPs,,1,Behavorial
+65,1,Behavior mock interview,,1,Behavorial
+65,2,FAANG-3 call for on-sites,,0.5,
+66,1,System Design Mock Interview,,2,System Design
+67,1,Behavior mock interview,,1,Behavorial
+68,1,FAANG-1 final interviews,,6,
